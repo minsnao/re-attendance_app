@@ -1,0 +1,26 @@
+.body {
+    background-color: #f5f5f5;
+}
+
+.header {
+    background: #000;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.header__inner {
+    display: flex;
+    margin: 0;
+    align-items: center;
+}
+
+.header__inner-left {
+    padding: 5px;
+    margin-right: auto;
+    display: flex;
+}
+
+.logo-img {
+    height: 20px;
+}
+
